@@ -1,5 +1,5 @@
 /*
- * Bubble Sort
+ * Selection Sort
  *
  * by Germán Jongewaard
  *
